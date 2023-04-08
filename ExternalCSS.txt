@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Example</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header>
+<h1>Example Website</h1>
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section>
+<h2>About Us</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac blandit
+<p>Suspendisse sit amet nisl velit. Aliquam erat volutpat. Duis tincidunt mas
+</section>
+<section>
+<h2>Contact Us</h2>
+<form>
+<label for="name">Name: </label>
+<input type="text" id="name" name="name"
+<label for="email">Email:</label>
+<input type="email" id="email" name="email"
+<label for="message">Message:</label>
+<textarea id="message" name="message"></textarea> <button type="submit">Send</button>
+</form>
+</section>
+</main>
+<footer>
+    <p>&copy; 2023 Example Website</p>
+</footer>
+</body>
+</html>
